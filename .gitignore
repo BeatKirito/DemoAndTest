@@ -3,8 +3,8 @@
 
 #idea
 out/
-.idea/
-*.iml
+#.idea/
+#*.iml
 
 #maven
 target/
