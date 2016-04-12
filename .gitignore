@@ -1,19 +1,10 @@
 #java
-
 *.class
 
-#**/*.java
-
-
-
 #idea
-
 out/
-
 .idea/
-
 *.iml
-
 
 #maven
 target/
